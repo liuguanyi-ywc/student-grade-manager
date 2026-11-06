@@ -2,3 +2,6 @@
 out/
 .idea/
 *.iml
+教程.md
+db.properties
+DbDemo.java
